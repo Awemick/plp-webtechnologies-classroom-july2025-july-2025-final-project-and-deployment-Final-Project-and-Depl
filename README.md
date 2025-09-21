@@ -1,90 +1,105 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# CodeCraft Studios - Multipage Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A professional multipage website for CodeCraft Studios, a digital agency specializing in web development, app development, and UI/UX design.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+## Project Purpose
 
----
+This website serves as a portfolio and business showcase for CodeCraft Studios, designed to:
+- Attract potential clients by demonstrating expertise
+- Showcase completed projects and services
+- Provide company information and team details
+- Offer easy contact methods for business inquiries
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## Pages Structure
 
-Before you write any code, take time to plan:
+- **Home (index.html)**: Landing page with hero section, services overview, testimonials, and stats
+- **Services (services.html)**: Detailed service offerings with descriptions and process
+- **Portfolio (portfolio.html)**: Project gallery with filtering capabilities
+- **About (about.html)**: Company story, team profiles, and values
+- **Contact (contact.html)**: Contact form and business information
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+## Features
 
-**Goal:** Show intentional structure and user journey across the site.
+- **Responsive Design**: Mobile-first approach with breakpoints for all screen sizes
+- **Interactive Elements**:
+  - Mobile hamburger menu
+  - Portfolio project filtering
+  - Testimonial slider
+  - Contact form validation
+  - Scroll animations
+  - Back-to-top button
+- **Modern UI/UX**: Clean design with smooth animations and professional styling
+- **Accessibility**: Semantic HTML, alt attributes, and keyboard navigation
 
----
+## Technologies Used
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+- **HTML5**: Semantic structure and accessibility
+- **CSS3**: Responsive layouts, animations, and modern styling
+- **JavaScript**: Interactivity and dynamic content
 
-Using your plan, begin building:
+## File Structure
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+```
+/
+├── index.html          # Home page
+├── services.html       # Services page
+├── portfolio.html      # Portfolio page
+├── about.html          # About page
+├── contact.html        # Contact page
+├── assets/
+│   ├── css/
+│   │   └── style.css   # Main stylesheet
+│   ├── js/
+│   │   └── script.js   # JavaScript functionality
+│   └── images/         # Image assets
+└── README.md           # Project documentation
+```
 
-Each page should:
+## Live Demo
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+[View Live Site](https://yourusername.github.io/codecraft-studios-website/)
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## Installation & Setup
 
----
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/codecraft-studios-website.git
+   ```
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+2. Navigate to the project directory:
+   ```bash
+   cd codecraft-studios-website
+   ```
 
-Before deployment, refactor your project to follow production-friendly practices:
+3. Open `index.html` in your browser to view the site locally.
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+## Deployment
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+This project is deployed using GitHub Pages. To deploy your own version:
 
----
+1. Fork this repository
+2. Go to Settings > Pages
+3. Select "Deploy from a branch" and choose main branch
+4. The site will be available at `https://yourusername.github.io/repository-name/`
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## Browser Support
 
-Once your project is complete, choose a method to **host your site online**.
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
 
-You can use:
+## Contributing
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+This is a portfolio project. For suggestions or improvements, please open an issue or submit a pull request.
 
-Deploy your project and confirm that:
+## License
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+This project is for educational purposes. All images are from Unsplash and are free to use.
 
-**Goal:** Publish your work online and make it accessible to the world.
+## Contact
 
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+CodeCraft Studios
+- Email: info@codecraftstudios.com
+- Phone: (123) 456-7890
+- Address: 123 Tech Street,nakuru kenya
