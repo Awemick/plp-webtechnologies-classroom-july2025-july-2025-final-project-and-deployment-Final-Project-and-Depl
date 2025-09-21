@@ -57,7 +57,7 @@ This website serves as a portfolio and business showcase for CodeCraft Studios, 
 
 ## Live Demo
 
-[View Live Site](https://yourusername.github.io/codecraft-studios-website/)
+[View Live Site](https://codecraftsi.netlify.app/)
 
 ## Installation & Setup
 
@@ -102,4 +102,5 @@ This project is for educational purposes. All images are from Unsplash and are f
 CodeCraft Studios
 - Email: info@codecraftstudios.com
 - Phone: (123) 456-7890
+
 - Address: 123 Tech Street,nakuru kenya
