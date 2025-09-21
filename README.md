@@ -63,7 +63,7 @@ This website serves as a portfolio and business showcase for CodeCraft Studios, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codecraft-studios-website.git
+   git clone https://github.com/Awemick/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
    ```
 
 2. Navigate to the project directory:
@@ -104,3 +104,4 @@ CodeCraft Studios
 - Phone: (123) 456-7890
 
 - Address: 123 Tech Street,nakuru kenya
+
